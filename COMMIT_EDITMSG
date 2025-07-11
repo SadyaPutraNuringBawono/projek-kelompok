@@ -1,0 +1,7 @@
+Add the option for administrators to generate sample data for testing
+
+Implements a seed data function and API endpoint to populate the database.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 3c8ce911-28fb-4b4f-aaa2-bc88008dcbf9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/37a9328d-bbcf-44e7-ab08-dbe2a245dd61/75fbe626-d67d-4c29-8a0e-5ba7cae470a2.jpg
